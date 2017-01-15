@@ -1,7 +1,7 @@
 /*
- * Copyright (C) 2016 Baidu, Inc. All Rights Reserved.
+ * Copyright (C) 2017 Baidu, Inc. All Rights Reserved.
  */
-package cn.apopo.mybatis2.entity;
+package cn.apopo.springboot.mybatis2.entity;
 
 import java.io.Serializable;
 

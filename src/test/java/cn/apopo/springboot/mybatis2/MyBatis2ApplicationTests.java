@@ -1,4 +1,7 @@
-package cn.apopo.mybatis2;
+/*
+ * Copyright (C) 2017 Baidu, Inc. All Rights Reserved.
+ */
+package cn.apopo.springboot.mybatis2;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
